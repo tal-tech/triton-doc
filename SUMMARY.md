@@ -1,8 +1,3 @@
-### 简介
-------
-
-Triton 是使用纯Go语言编写的高性能高稳定插件式的消息中间件消费端, 支持市面上主流的消息队列，例如kafka、rabbitmq、rocketmq、nsq等，而且易于扩展，可满足生产环境下不同的业务需求。
-
   * [**简介**](README.md)
      * [背景](introduce/background.md)
      * [特性](introduce/special.md)
@@ -27,5 +22,3 @@ Triton 是使用纯Go语言编写的高性能高稳定插件式的消息中间�
  * [**部署**](deploy/local.md)
  
  * [**性能测试**](test/performance.md)
-
-
